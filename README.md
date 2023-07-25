@@ -15,7 +15,7 @@
 7. Open each of the files and make adjustments to the configuration variables at the top to meet your preferences.
 8. Save the file and repack your server PBO
 9. Unpack your mission PBO
-10. Edit ***init.sqf***
+10. Edit ***configVariables.sqf***
 
 	Find this block of code:
 	
